@@ -1,0 +1,287 @@
+{
+ "config": {
+  "whatsapp": "21653139907",
+  "disks": [
+   {
+    "label": "500 GB",
+    "gb": 465,
+    "price": 89
+   },
+   {
+    "label": "1 TB",
+    "gb": 930,
+    "price": 129
+   },
+   {
+    "label": "2 TB",
+    "gb": 1860,
+    "price": 199
+   }
+  ],
+  "manette_prices": {
+   "1": 30,
+   "2": 50
+  },
+    "page_size": 12,
+    "emojis": true
+  
+ },
+ "games": [
+  {
+   "name": "007 First Light",
+   "size_gb": 55,
+   "image": "images/007 first light.ico"
+  },
+  {
+   "name": "Assassin's Creed IV: Black Flag resynced",
+   "size_gb": 69,
+   "image": "images/acbfr.png"
+  },
+  {
+   "name": "Assassin's Creed Mirage",
+   "size_gb": 39,
+   "image": "images/mirage.png"
+  },
+  {
+   "name": "Avatar Legends: The Fighting Game",
+   "size_gb": 8,
+   "image": "images/avatar.png"
+  },
+  {
+   "name": "Battlefield 6",
+   "size_gb": 52,
+   "image": "images/battle field 6.ico"
+  },
+  {
+   "name": "Blur",
+   "size_gb": 8,
+   "image": "images/blur.png"
+  },
+  {
+   "name": "Brawlhalla",
+   "size_gb": 1,
+   "image": "images/brawlhalla.png"
+  },
+  {
+   "name": "CoD Black Ops 6",
+   "size_gb": 51,
+   "image": "images/cod black ops 6.png"
+  },
+  {
+   "name": "CoD Modern Warfare 4",
+   "size_gb": 74,
+   "image": "images/cod modern warfare 4.png"
+  },
+  {
+   "name": "CoD WWII",
+   "size_gb": 43,
+   "image": "images/cod wwii.png"
+  },
+  {
+   "name": "Crash Bandicoot 4: It’s About Time",
+   "size_gb": 25,
+   "image": "images/crash 4.png"
+  },
+  {
+   "name": "Crysis 3",
+   "size_gb": 12,
+   "image": "images/crysis 3.png"
+  },
+  {
+   "name": "Cyberpunk 2077",
+   "size_gb": 62,
+   "image": "images/cyberpunk.ico"
+  },
+  {
+   "name": "Dune: Awakening",
+   "size_gb": 44,
+   "image": "images/dune.png"
+  },
+  {
+   "name": "eFootball 2021",
+   "size_gb": 40,
+   "image": "images/efootball 21.png"
+  },
+  {
+   "name": "Elden Ring",
+   "size_gb": 70,
+   "image": "images/elden ring.png"
+  },
+  {
+   "name": "FIFA 21",
+   "size_gb": 52,
+   "image": "images/fifa 21.png"
+  },
+  {
+   "name": "FIFA 23",
+   "size_gb": 48,
+   "image": "images/fifa 23.png"
+  },
+  {
+   "name": "Forza Horizon 5",
+   "size_gb": 102,
+   "image": "images/forza 5.ico"
+  },
+  {
+   "name": "Getting Over It with Bennett Foddyy",
+   "size_gb": 2,
+   "image": "images/gettingoverit.png"
+  },
+  {
+   "name": "God of War 3",
+   "size_gb": 32,
+   "image": "images/god of war 3.png"
+  },
+  {
+   "name": "God of War 2018",
+   "size_gb": 63,
+   "image": "images/god of war 2018.png"
+  },
+  {
+   "name": "God of War 2024",
+   "size_gb": 162,
+   "image": "images/god of war 2024.png"
+  },
+  {
+   "name": "Grand Theft Auto - The Definitive Edition",
+   "size_gb": 33,
+   "image": "images/gta dee.png"
+  },
+  {
+   "name": "Grand Theft Auto V Legacy",
+   "size_gb": 73,
+   "image": "images/Grand Theft Auto V enhanced.png"
+  },
+  {
+   "name": "HOT WHEELS™ Infinite Rush",
+   "size_gb": 19,
+   "image": "images/hot wheels.png"
+  },
+  {
+   "name": "Injustice 2",
+   "size_gb": 40,
+   "image": "images/injustice 2.png"
+  },
+  {
+   "name": "Just Cause 4",
+   "size_gb": 52,
+   "image": "images/just cause 4.png"
+  },
+  {
+   "name": "Little Nightmare 3",
+   "size_gb": 15,
+   "image": "images/little nightmare 3.png"
+  },
+  {
+   "name": "Mafia The Old Country",
+   "size_gb": 47,
+   "image": "images/mafia the old country.png"
+  },
+  {
+   "name": "Marvel Spiderman 2",
+   "size_gb": 111,
+   "image": "images/marvel spiderman 2.png"
+  },
+  {
+   "name": "Pizza House Simulator",
+   "size_gb": 5,
+   "image": "images/pizza.png"
+  },
+  {
+   "name": "Ratchet Clank Rift Apart",
+   "size_gb": 42,
+   "image": "images/Ratchet Clank Rift Apart.png"
+  },
+  {
+   "name": "Resident Evil 2 Remake",
+   "size_gb": 25,
+   "image": "images/resident evil 2.png"
+  },
+  {
+   "name": "Resident Evil 4 Classic",
+   "size_gb": 15.1,
+   "image": "images/re4.png"
+  },
+  {
+   "name": "Resident Evil 4 Remake",
+   "size_gb": 60,
+   "image": "images/resident evil 4.png"
+  },
+  {
+   "name": "Resident Evil Requiem",
+   "size_gb": 76,
+   "image": "images/rer.png"
+  },
+  {
+   "name": "Sekiro 2019",
+   "size_gb": 15.4,
+   "image": "images/sekiro 2019.png"
+  },
+  {
+   "name": "SILENT HILL: Townfall",
+   "size_gb": 75,
+   "image": "images/silent hill tf.png"
+  },
+  {
+   "name": "SpongeBob SquarePants Titans of the Tide",
+   "size_gb": 12,
+   "image": "images/SpongeBob_SquarePants_Titans_of_the_Tide_Logo (1).ico"
+  },
+  {
+   "name": "Star Wars Outlaws",
+   "size_gb": 73,
+   "image": "images/swol.png"
+  },
+  {
+   "name": "Stray",
+   "size_gb": 8,
+   "image": "images/stray.png"
+  },
+  {
+   "name": "Team Sonic Racing",
+   "size_gb": 28,
+   "image": "images/team sonic racing.png"
+  },
+  {
+   "name": "Tekken 7",
+   "size_gb": 57,
+   "image": "images/tekken 7.png"
+  },
+  {
+   "name": "The Blood of Dawnwalker: Eclipse Edition",
+   "size_gb": 56,
+   "image": "images/the blood of the dawn walker.png"
+  },
+  {
+   "name": "The Crew 2",
+   "size_gb": 36,
+   "image": "images/the crew 2.ico"
+  },
+  {
+   "name": "The Last of Us 1",
+   "size_gb": 78,
+   "image": "images/the last of us 1.png"
+  },
+  {
+   "name": "The Last of Us 2",
+   "size_gb": 83,
+   "image": "images/the last of us 2.png"
+  },
+  {
+   "name": "Uncharted Legacy Of Thieves Collection",
+   "size_gb": 125,
+   "image": "images/uncharted 2024.png"
+  },
+  {
+   "name": "Watch Dogs 2",
+   "size_gb": 33,
+   "image": "images/wd2.png"
+  }
+  ,
+  {
+   "name": "A Plague Tale : Requiem",
+   "size_gb": 55,
+   "image": "images/a plague tale requiem.png"
+  }
+ ]
+}
